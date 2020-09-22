@@ -4,6 +4,14 @@ My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer at Blue Harvest. I
 
 Ambassador at Storyblok & NuxtJS. In love with Vue, TailwindCSS and AMP components 🥰
 
+## Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=dawntraoz&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
+
+## Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawntraoz&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+
 ## Where you can find me
 
 <p>
@@ -39,7 +47,4 @@ I'll be sharing with you the things I used to fight with 🦸‍
 <a href="https://www.dawntraoz.com/blog/" rel="nofollow">
   <img src="https://www.dawntraoz.com/images/blog.png" alt="IS ! MY BUG" />
 </a>
-
-### Contributions
-<img src="https://github-readme-stats.vercel.app/api?username=dawntraoz&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c" alt="Contributions" />
 
