@@ -38,7 +38,7 @@ Ambassador at Storyblok & NuxtJS. In love with Vue, TailwindCSS and AMP componen
 I'll be sharing with you the things I used to fight with and the ones I love 🦸‍
 
 <a href="https://www.dawntraoz.com/blog/" rel="nofollow">
-  <img src="https://www.dawntraoz.com/images/blog.png" alt="IS ! MY BUG" />
+  <img src="https://www.dawntraoz.com/images/blog.jpg" alt="IS ! MY BUG" />
 </a>
 
 ### IS ! MY BUG
