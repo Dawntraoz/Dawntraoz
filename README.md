@@ -1,4 +1,6 @@
-## Hi folks
+<img src="https://pbs.twimg.com/profile_banners/1188743102409924609/1610918982/1500x500" alt="Dawntraoz banner" />
+
+Hi folks 👋
 
 My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer at Blue Harvest. I'm writting posts about frontend development on my personal blog, www.dawntraoz.com/blog/, and I'm working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
@@ -12,16 +14,21 @@ Ambassador at Storyblok & NuxtJS. In love with Vue, TailwindCSS and AMP componen
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawntraoz&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
 
-## Working in my spare time
+## 🌄 Dawntraoz website - New post, talk or podcast every week
 
-### New post, talk or podcast every week
 I'll be sharing with you the things I used to fight with and the ones I love 🦸‍
 
 <a href="https://www.dawntraoz.com/blog/" rel="nofollow">
   <img width="672" src="https://www.dawntraoz.com/images/blog.jpg" alt="IS ! MY BUG" />
 </a>
 
-### IS ! MY BUG
+### ✍ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## IS ! MY BUG
+
 We want to build a community of devs to help you find the company that suits you best. 💜
 
 <a href="https://www.dawntraoz.com/blog/presenting-our-new-project-is-not-my-bug/" rel="nofollow">
