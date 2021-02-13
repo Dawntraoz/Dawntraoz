@@ -6,13 +6,12 @@ My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer at Blue Harvest. I
 
 Ambassador at Storyblok & NuxtJS. In love with Vue, TailwindCSS and AMP components 🥰
 
-## Contributions
+## 👁‍🗨 Follow me on
 
-<img src="https://github-readme-stats.vercel.app/api?username=dawntraoz&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
-
-## Most used languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawntraoz&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+- LinkedIn: [Dawntraoz](https://linkedin.com/in/dawntraoz)
+- Twitter: [Dawntraoz](https://twitter.com/dawntraoz)
+- Dev: [Dawntraoz](https://dev.to/dawntraoz)
+- Hashnode: [Dawntraoz](https://hashnode.com/@dawntraoz)
 
 ## 🌄 Dawntraoz website - New post, talk or podcast every week
 
@@ -25,7 +24,20 @@ I'll be sharing with you the things I used to fight with and the ones I love �
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to format dates without Moment.js](https://dawntraoz.com/blog/how-to-format-dates-without-moment-js)
+- [2020 in review: achievements and reflections](https://dawntraoz.com/blog/2020-in-review-achievements-and-reflections)
+- [Random potato mood generator - DO App Platform](https://dawntraoz.com/blog/random-potato-mood-generator-do-app-platform)
+- [How to show your Github repositories using Vue 3 and TailwindCSS (with dark mode)](https://dawntraoz.com/blog/how-to-show-your-github-repos-vue3-tailwindcss-dark-mode)
+- [My contributions in this year 2020 Hacktoberfest](https://dawntraoz.com/blog/my-contributions-in-this-year-2020-hacktoberfest)
 <!-- BLOG-POST-LIST:END -->
+
+## Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=dawntraoz&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
+
+## Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawntraoz&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
 
 ## IS ! MY BUG
 
