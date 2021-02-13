@@ -6,8 +6,8 @@ on:
     branches: [master]
   # Run workflow automatically
   schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
+    # Runs every 24 hour (00:00)
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme-with-blog:
