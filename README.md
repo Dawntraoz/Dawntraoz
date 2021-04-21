@@ -1,16 +1,19 @@
-<img src="https://pbs.twimg.com/profile_banners/1188743102409924609/1617979359/1500x500" alt="Dawntraoz banner" />
+<img src="https://pbs.twimg.com/profile_banners/1188743102409924609/1618951945/1500x500" alt="Dawntraoz banner" />
 
 Hi folks 👋
 
 My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer at Blue Harvest. I'm writting posts about frontend development on my personal blog, www.dawntraoz.com/blog/, and I'm working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
-Ambassador at Storyblok & NuxtJS. In love with Vue, TailwindCSS and AMP components 🥰
+Ambassador at Storyblok & NuxtJS.
+GoogleDevExpert in Web Technologies.
+In love with Vue, TailwindCSS and AMP components 🥰
 
 ## 👁‍🗨 Follow me on
 
 - LinkedIn: [Dawntraoz](https://linkedin.com/in/dawntraoz)
 - Twitter: [Dawntraoz](https://twitter.com/dawntraoz)
 - Dev: [Dawntraoz](https://dev.to/dawntraoz)
+- Instagram: [Dawntraoz.tech](https://instagram.com/dawntraoz.tech)
 - Hashnode: [Dawntraoz](https://hashnode.com/@dawntraoz)
 
 ## 🌄 Dawntraoz website - New post, talk or podcast every week
