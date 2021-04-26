@@ -27,11 +27,11 @@ I'll be sharing with you the things I used to fight with and the ones I love ü¶
 ### ‚úç Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My web performance journey with Nuxt, Storyblok & Netlify](https://dawntraoz.com/blog/my-web-performance-journey-with-nuxt-storyblok-netlify)
 - [Create custom emails with your Netlify domain and Zoho](https://dawntraoz.com/blog/create-custom-emails-with-your-netlify-domain-and-zoho)
 - [A Front-end developer using Figma](https://dawntraoz.com/blog/a-front-end-developer-using-figma)
 - [Adding RSS feed to my blog made with Nuxt & Storyblok](https://dawntraoz.com/blog/adding-rss-feed-to-my-blog-made-with-nuxt-storyblok)
 - [How to format dates without Moment.js](https://dawntraoz.com/blog/how-to-format-dates-without-moment-js)
-- [2020 in review: achievements and reflections](https://dawntraoz.com/blog/2020-in-review-achievements-and-reflections)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contributions
