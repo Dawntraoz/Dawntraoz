@@ -2,9 +2,9 @@
 
 Hi folks 👋
 
-My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer at Blue Harvest. I'm writting posts about frontend development on my personal blog, www.dawntraoz.com/blog/, and I'm working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
+My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Consultant at [Passionate People](https://github.com/passionatepeople). I'm writting posts about frontend development on my personal blog, www.dawntraoz.com/blog/, and I'm working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
-Ambassador at Storyblok & NuxtJS.
+Ambassador at Storyblok & Nuxt.
 GoogleDevExpert in Web Technologies.
 In love with Vue, TailwindCSS and AMP components 🥰
 
