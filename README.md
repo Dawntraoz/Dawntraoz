@@ -14,6 +14,7 @@ In love with Vue, TailwindCSS and AMP components 🥰
 - Twitter: [Dawntraoz](https://twitter.com/dawntraoz)
 - Dev: [Dawntraoz](https://dev.to/dawntraoz)
 - Instagram: [Dawntraoz.tech](https://instagram.com/dawntraoz.tech)
+- Polywork: [Dawntraoz](https://www.polywork.com/dawntraoz)
 - Hashnode: [Dawntraoz](https://hashnode.com/@dawntraoz)
 
 ## 🌄 Dawntraoz website - New post, talk or podcast every week
