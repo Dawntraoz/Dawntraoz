@@ -29,10 +29,10 @@ I'll be sharing with you the things I used to fight with and the ones I love ðŸ¦
 
 <!-- BLOG-POST-LIST:START -->
 - [Positioning elements with Grid](https://dawntraoz.com/blog/positioning-elements-with-grid)
-- [My web performance journey with Nuxt, Storyblok & Netlify](https://dawntraoz.com/blog/my-web-performance-journey-with-nuxt-storyblok-netlify)
+- [My web performance journey with Nuxt, Storyblok &amp; Netlify](https://dawntraoz.com/blog/my-web-performance-journey-with-nuxt-storyblok-netlify)
 - [Create custom emails with your Netlify domain and Zoho](https://dawntraoz.com/blog/create-custom-emails-with-your-netlify-domain-and-zoho)
 - [A Front-end developer using Figma](https://dawntraoz.com/blog/a-front-end-developer-using-figma)
-- [Adding RSS feed to my blog made with Nuxt & Storyblok](https://dawntraoz.com/blog/adding-rss-feed-to-my-blog-made-with-nuxt-storyblok)
+- [Adding RSS feed to my blog made with Nuxt &amp; Storyblok](https://dawntraoz.com/blog/adding-rss-feed-to-my-blog-made-with-nuxt-storyblok)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contributions
