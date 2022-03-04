@@ -28,11 +28,11 @@ I'll be sharing with you the things I used to fight with and the ones I love ü¶
 ### ‚úç Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A complete guide to web vitals, lab and field data](https://dawntraoz.com/blog/a-complete-guide-to-web-vitals-lab-and-field-data)
+- [Benefits of podcasting and Jamstack](https://dawntraoz.com/blog/benefits-of-podcasting-and-how-to-showcase-it-on-a-jamstack-site)
+- [A content creator using Figma](https://dawntraoz.com/blog/a-content-creator-using-figma)
 - [Positioning elements with Grid](https://dawntraoz.com/blog/positioning-elements-with-grid)
 - [My web performance journey with Nuxt, Storyblok &amp; Netlify](https://dawntraoz.com/blog/my-web-performance-journey-with-nuxt-storyblok-netlify)
-- [Create custom emails with your Netlify domain and Zoho](https://dawntraoz.com/blog/create-custom-emails-with-your-netlify-domain-and-zoho)
-- [A Front-end developer using Figma](https://dawntraoz.com/blog/a-front-end-developer-using-figma)
-- [Adding RSS feed to my blog made with Nuxt &amp; Storyblok](https://dawntraoz.com/blog/adding-rss-feed-to-my-blog-made-with-nuxt-storyblok)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contributions
