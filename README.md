@@ -2,7 +2,7 @@
 
 Hi folks 👋
 
-My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Consultant at [Passionate People](https://github.com/passionatepeople). I'm writting posts about frontend development on my personal blog, www.dawntraoz.com/blog/, and I'm working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
+My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer at [Ignite](https://ignt.com). I'm writting posts about frontend development on my personal blog, www.dawntraoz.com/blog/, and I'm working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
 Ambassador at Storyblok & Nuxt.
 GoogleDevExpert in Web Technologies.
@@ -12,10 +12,13 @@ In love with Vue, TailwindCSS and AMP components 🥰
 
 - LinkedIn: [Dawntraoz](https://linkedin.com/in/dawntraoz)
 - Twitter: [Dawntraoz](https://twitter.com/dawntraoz)
-- Dev: [Dawntraoz](https://dev.to/dawntraoz)
 - Instagram: [Dawntraoz](https://instagram.com/dawntraoz)
-- Polywork: [Dawntraoz](https://www.polywork.com/dawntraoz)
+- DEV: [Dawntraoz](https://dev.to/dawntraoz)
 - Hashnode: [Dawntraoz](https://hashnode.com/@dawntraoz)
+- Polywork: [Dawntraoz](https://www.polywork.com/dawntraoz)
+- Twitch: [Dawntraoz](https://twitch.tv/dawntraoz)
+
+You can find other links at [my Koji](https://withkoji.com/@Dawntraoz).
 
 ## 🌄 Dawntraoz website - New post, talk or podcast every week
 
