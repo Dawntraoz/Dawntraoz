@@ -2,9 +2,9 @@
 
 Hi folks 👋
 
-My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer at [Ignite](https://ignt.com). I'm writting posts about frontend development on my personal blog, www.dawntraoz.com/blog/, and I'm working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
+My name is Alba, aka Dawntraoz, I'm Senior FrontEnd Developer working as Developer Relations Engineer at [Storyblok](https://storyblok.com). I'm writting posts about frontend development on my personal blog, [dawntraoz.com/blog](https://www.dawntraoz.com/blog/), co-hosting my own podcast, speaking at conferences and working hard on open-source projects to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
-Ambassador at Storyblok & Nuxt.
+Ambassador at Nuxt.
 GoogleDevExpert in Web Technologies.
 In love with Vue, TailwindCSS and AMP components 🥰
 
