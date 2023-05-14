@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1188743102409924609/1618951945/1500x500" alt="Dawntraoz banner" />
+<img src="https://pbs.twimg.com/profile_banners/1188743102409924609/1683298720/1500x500" alt="Dawntraoz banner" />
 
 Hi folks 👋
 
