@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1188743102409924609/1697392977/1500x500" alt="Dawntraoz banner" />
+![Dawntraoz banner](https://github.com/user-attachments/assets/a8674734-0378-4158-8a7f-3deb337d6fa4)
 
 Hi folks 👋
 
